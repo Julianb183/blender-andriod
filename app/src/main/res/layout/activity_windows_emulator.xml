@@ -1,0 +1,13 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent" android:background="#05070A">
+    <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical" android:padding="24dp">
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="PCVR QUEST EMU" android:textColor="#00E5FF" android:textSize="24sp" android:typeface="monospace" />
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Windows ARM64 • QEMU system emulation • experimental" android:textColor="#FFCC80" android:paddingTop="8dp" />
+        <EditText android:id="@+id/memoryInput" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="4096" android:hint="RAM in MB" android:inputType="number" android:textColor="#FFFFFF" />
+        <Button android:id="@+id/selectImage" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="SELECT WINDOWS ARM64 IMAGE" />
+        <Button android:id="@+id/openBlender" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="OPEN BLENDER .BLEND FILE" />
+        <Button android:id="@+id/startWindows" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="START EMULATOR" />
+        <Button android:id="@+id/stopWindows" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="STOP EMULATOR" />
+        <TextView android:id="@+id/emulatorStatus" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="No guest image selected\nNative QEMU backend required" android:textColor="#D8F3DC" android:typeface="monospace" android:paddingTop="16dp" />
+    </LinearLayout>
+</ScrollView>

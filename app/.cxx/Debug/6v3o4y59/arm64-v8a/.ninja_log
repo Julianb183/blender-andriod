@@ -1,0 +1,5 @@
+# ninja log v5
+0	1036	1789253854305885583	CMakeFiles/pcvr_qemu_runner.dir/qemu_runner.cpp.o	56700bfc7d11516d
+1038	1105	1789253854374563302	/Users/julianpaul/QuestTerminal/app/build/intermediates/cxx/Debug/6v3o4y59/obj/arm64-v8a/libpcvr_qemu_runner.so	4e25d4070d4a3f0f
+5	1062	1789254878088203050	CMakeFiles/pcvr_qemu_runner.dir/qemu_runner.cpp.o	56700bfc7d11516d
+1063	1298	1789254878304553762	/Users/julianpaul/QuestTerminal/app/build/intermediates/cxx/Debug/6v3o4y59/obj/arm64-v8a/libpcvr_qemu_runner.so	4e25d4070d4a3f0f
