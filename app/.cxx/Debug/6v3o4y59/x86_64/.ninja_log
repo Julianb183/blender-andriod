@@ -1,5 +1,0 @@
-# ninja log v5
-0	843	1789253858608560233	CMakeFiles/pcvr_qemu_runner.dir/qemu_runner.cpp.o	f7b7fb4d864078b2
-850	1008	1789253858774675751	/Users/julianpaul/QuestTerminal/app/build/intermediates/cxx/Debug/6v3o4y59/obj/x86_64/libpcvr_qemu_runner.so	16e9296f968e5c3e
-2	258	1789254879362717830	CMakeFiles/pcvr_qemu_runner.dir/qemu_runner.cpp.o	f7b7fb4d864078b2
-258	305	1789254879409904103	/Users/julianpaul/QuestTerminal/app/build/intermediates/cxx/Debug/6v3o4y59/obj/x86_64/libpcvr_qemu_runner.so	16e9296f968e5c3e

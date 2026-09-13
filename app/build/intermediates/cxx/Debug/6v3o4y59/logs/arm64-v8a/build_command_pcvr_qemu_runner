@@ -1,4 +1,0 @@
-/Users/julianpaul/Library/Android/sdk/cmake/3.22.1/bin/ninja \
-  -C \
-  /Users/julianpaul/QuestTerminal/app/.cxx/Debug/6v3o4y59/arm64-v8a \
-  pcvr_qemu_runner

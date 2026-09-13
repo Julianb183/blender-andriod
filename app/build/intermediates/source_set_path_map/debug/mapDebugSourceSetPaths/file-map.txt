@@ -1,7 +1,0 @@
-com.julianb183.questterminal.app-pngs-0 /Users/julianpaul/QuestTerminal/app/build/generated/res/pngs/debug
-com.julianb183.questterminal.app-resValues-1 /Users/julianpaul/QuestTerminal/app/build/generated/res/resValues/debug
-com.julianb183.questterminal.app-packageDebugResources-2 /Users/julianpaul/QuestTerminal/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
-com.julianb183.questterminal.app-packageDebugResources-3 /Users/julianpaul/QuestTerminal/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
-com.julianb183.questterminal.app-debug-4 /Users/julianpaul/QuestTerminal/app/build/intermediates/merged_res/debug/mergeDebugResources
-com.julianb183.questterminal.app-debug-5 /Users/julianpaul/QuestTerminal/app/src/debug/res
-com.julianb183.questterminal.app-main-6 /Users/julianpaul/QuestTerminal/app/src/main/res
